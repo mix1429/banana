@@ -1,1 +1,2 @@
 print('M')
+print('N')
